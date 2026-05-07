@@ -48,6 +48,3 @@ This project analyses customer churn patterns across 10,000 European banking cus
 
 ## 👤 Author
 - Name: Isha Rohit Surve
-- Name: Your Name Here
-- Role: Financial Analyst Intern
-- Organisation: European Central Bank
